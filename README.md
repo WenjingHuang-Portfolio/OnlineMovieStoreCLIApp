@@ -31,8 +31,11 @@ Ensure you have the following installed:
 - **MySQL**
 - Dependencies: `express`, `mysql2`, `body-parser`, `cors`
 
-### Step 1: Open the Folder
-Open the project folder **WenjingHuang-Project** using **Visual Studio Code**.
+### Step 1: Clone the Repository
+```sh
+git clone https://github.com/WenjingHuang-Portfolio/OnlineMovieStoreCLIApp.git
+cd WenjingHuang-Project
+```
 
 ### Step 2: Install Dependencies
 ```sh
